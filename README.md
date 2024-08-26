@@ -1,4 +1,5 @@
 **Overview**
+
 This project leverages the IMDb Movies Dataset from Kaggle to create insightful visualizations that reveal trends and patterns in the movie industry. The dataset includes detailed information about movies, such as ratings, genres, Revenue, and more.
 
 **Features**
